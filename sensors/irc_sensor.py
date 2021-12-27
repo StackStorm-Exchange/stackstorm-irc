@@ -1,4 +1,3 @@
-# pylint: disable=super-on-old-class
 import time
 import random
 
